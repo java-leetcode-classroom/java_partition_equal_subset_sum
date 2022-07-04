@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SolutionTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-07-04T09:42:32" hostname="yuanyu-ubuntu" time="0.092">
+  <properties/>
+  <testcase name="canPartitionExample1()" classname="SolutionTest" time="0.088"/>
+  <testcase name="canPartitionExample2()" classname="SolutionTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
